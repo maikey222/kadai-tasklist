@@ -1,4 +1,4 @@
-package utils;
+package utils; //DAO（DBUtil）の作成
 
 import javax.persistence.EntityManager;
 import javax.persistence.EntityManagerFactory;
